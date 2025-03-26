@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/build/autopartol_interfaces/rosidl_generator_c/autopartol_interfaces/srv/speech_text.h

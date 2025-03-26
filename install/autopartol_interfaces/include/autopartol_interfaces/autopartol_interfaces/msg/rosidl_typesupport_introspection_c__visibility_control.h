@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/build/autopartol_interfaces/rosidl_typesupport_introspection_c/autopartol_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h

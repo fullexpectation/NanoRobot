@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/build/autopartol_interfaces/rosidl_cmake/srv/SpeechText_Response.msg

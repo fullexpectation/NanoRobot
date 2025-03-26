@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/src/cpp06_urdf/launch/gazebo_sim.launch.py

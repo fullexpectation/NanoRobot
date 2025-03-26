@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/build/autopartol_interfaces/rosidl_generator_py/autopartol_interfaces/__init__.py

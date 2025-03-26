@@ -1,0 +1,52 @@
+[0.845s] Invoking command in '/home/xinhongwang/nav2_ws/build/car_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake /home/xinhongwang/nav2_ws/src/car_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/xinhongwang/nav2_ws/install/car_navigation2
+[0.965s] -- The C compiler identification is GNU 11.4.0
+[1.078s] -- The CXX compiler identification is GNU 11.4.0
+[1.099s] -- Detecting C compiler ABI info
+[1.271s] -- Detecting C compiler ABI info - done
+[1.283s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.288s] -- Detecting C compile features
+[1.289s] -- Detecting C compile features - done
+[1.290s] -- Detecting CXX compiler ABI info
+[1.489s] -- Detecting CXX compiler ABI info - done
+[1.500s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.501s] -- Detecting CXX compile features
+[1.501s] -- Detecting CXX compile features - done
+[1.507s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.799s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.942s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.077s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.333s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.336s] -- Added test 'lint_cmake' to check CMake code style
+[2.339s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.352s] -- Added test 'xmllint' to check XML markup files
+[2.360s] -- Configuring done
+[2.369s] -- Generating done
+[2.371s] -- Build files have been written to: /home/xinhongwang/nav2_ws/build/car_navigation2
+[2.389s] Invoked command in '/home/xinhongwang/nav2_ws/build/car_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake /home/xinhongwang/nav2_ws/src/car_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/xinhongwang/nav2_ws/install/car_navigation2
+[2.402s] Invoking command in '/home/xinhongwang/nav2_ws/build/car_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake --build /home/xinhongwang/nav2_ws/build/car_navigation2 -- -j8 -l8
+[2.544s] Invoked command in '/home/xinhongwang/nav2_ws/build/car_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake --build /home/xinhongwang/nav2_ws/build/car_navigation2 -- -j8 -l8
+[2.552s] Invoking command in '/home/xinhongwang/nav2_ws/build/car_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake --install /home/xinhongwang/nav2_ws/build/car_navigation2
+[2.586s] -- Install configuration: ""
+[2.592s] -- Execute custom install script
+[2.594s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/launch/navigation2.launch.py
+[2.613s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/config/nav2_params.yaml
+[2.646s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/maps/room.pgm
+[2.682s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/maps/room.yaml
+[2.708s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/maps/room3.pgm
+[2.727s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/maps/room3.yaml
+[2.751s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/ament_index/resource_index/package_run_dependencies/car_navigation2
+[2.774s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/ament_index/resource_index/parent_prefix_path/car_navigation2
+[2.807s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/environment/ament_prefix_path.sh
+[2.848s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/environment/ament_prefix_path.dsv
+[2.893s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/environment/path.sh
+[2.929s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/environment/path.dsv
+[2.958s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/local_setup.bash
+[2.998s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/local_setup.sh
+[3.028s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/local_setup.zsh
+[3.073s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/local_setup.dsv
+[3.108s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/package.dsv
+[3.134s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/ament_index/resource_index/packages/car_navigation2
+[3.162s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/cmake/car_navigation2Config.cmake
+[3.187s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/cmake/car_navigation2Config-version.cmake
+[3.208s] -- Symlinking: /home/xinhongwang/nav2_ws/install/car_navigation2/share/car_navigation2/package.xml
+[3.231s] Invoked command in '/home/xinhongwang/nav2_ws/build/car_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake --install /home/xinhongwang/nav2_ws/build/car_navigation2

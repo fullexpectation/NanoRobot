@@ -1,0 +1,204 @@
+[0.064s] Invoking command in '/home/xinhongwang/nav2_ws/build/autopartol_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake /home/xinhongwang/nav2_ws/src/autopartol_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/xinhongwang/nav2_ws/install/autopartol_interfaces
+[0.884s] -- The C compiler identification is GNU 11.4.0
+[0.885s] -- The CXX compiler identification is GNU 11.4.0
+[0.885s] -- Detecting C compiler ABI info
+[0.886s] -- Detecting C compiler ABI info - done
+[0.886s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.886s] -- Detecting C compile features
+[0.886s] -- Detecting C compile features - done
+[0.887s] -- Detecting CXX compiler ABI info
+[0.887s] -- Detecting CXX compiler ABI info - done
+[0.887s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.887s] -- Detecting CXX compile features
+[0.888s] -- Detecting CXX compile features - done
+[0.888s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.042s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.165s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.262s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[1.363s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.378s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.395s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.436s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.539s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.586s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.170s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.068s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.357s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.396s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[3.407s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.456s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[3.456s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.456s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.456s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.495s] -- Found PythonExtra: .so  
+[3.582s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.608s] -- Configuring done
+[3.678s] -- Generating done
+[3.694s] -- Build files have been written to: /home/xinhongwang/nav2_ws/build/autopartol_interfaces
+[3.710s] Invoked command in '/home/xinhongwang/nav2_ws/build/autopartol_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake /home/xinhongwang/nav2_ws/src/autopartol_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/xinhongwang/nav2_ws/install/autopartol_interfaces
+[3.714s] Invoking command in '/home/xinhongwang/nav2_ws/build/autopartol_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake --build /home/xinhongwang/nav2_ws/build/autopartol_interfaces -- -j8 -l8
+[3.819s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[3.834s] [  6%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[3.876s] [  6%] Built target ament_cmake_python_symlink_autopartol_interfaces
+[4.417s] [  6%] Built target autopartol_interfaces__cpp
+[4.445s] [  9%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[4.445s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[4.455s] [ 16%] [32mBuilding C object CMakeFiles/autopartol_interfaces__rosidl_generator_c.dir/rosidl_generator_c/autopartol_interfaces/srv/detail/speech_text__functions.c.o[0m
+[4.458s] [ 19%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[4.580s] running egg_info
+[4.580s] creating autopartol_interfaces.egg-info
+[4.580s] writing autopartol_interfaces.egg-info/PKG-INFO
+[4.580s] writing dependency_links to autopartol_interfaces.egg-info/dependency_links.txt
+[4.580s] writing top-level names to autopartol_interfaces.egg-info/top_level.txt
+[4.581s] writing manifest file 'autopartol_interfaces.egg-info/SOURCES.txt'
+[4.587s] reading manifest file 'autopartol_interfaces.egg-info/SOURCES.txt'
+[4.588s] writing manifest file 'autopartol_interfaces.egg-info/SOURCES.txt'
+[4.665s] [ 22%] [32m[1mLinking C shared library libautopartol_interfaces__rosidl_generator_c.so[0m
+[4.736s] [ 22%] Built target ament_cmake_python_build_autopartol_interfaces_egg
+[4.794s] [ 22%] Built target autopartol_interfaces__rosidl_generator_c
+[4.828s] [ 25%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[4.832s] [ 29%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[4.835s] [ 32%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[4.997s] [ 35%] [32mBuilding CXX object CMakeFiles/autopartol_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/autopartol_interfaces/srv/detail/dds_fastrtps/speech_text__type_support.cpp.o[0m
+[5.075s] [ 38%] [32mBuilding CXX object CMakeFiles/autopartol_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/autopartol_interfaces/srv/speech_text__type_support.cpp.o[0m
+[5.114s] [ 41%] [32mBuilding CXX object CMakeFiles/autopartol_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/autopartol_interfaces/srv/detail/speech_text__type_support.cpp.o[0m
+[5.438s] [ 45%] [32mBuilding CXX object CMakeFiles/autopartol_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/autopartol_interfaces/srv/speech_text__type_support.cpp.o[0m
+[5.523s] [ 48%] [32mBuilding C object CMakeFiles/autopartol_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/autopartol_interfaces/srv/detail/speech_text__type_support.c.o[0m
+[5.551s] [ 51%] [32mBuilding CXX object CMakeFiles/autopartol_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/autopartol_interfaces/srv/detail/speech_text__type_support_c.cpp.o[0m
+[5.579s] [ 54%] [32m[1mLinking CXX shared library libautopartol_interfaces__rosidl_typesupport_c.so[0m
+[5.672s] [ 58%] [32m[1mLinking C shared library libautopartol_interfaces__rosidl_typesupport_introspection_c.so[0m
+[5.684s] [ 58%] Built target autopartol_interfaces__rosidl_typesupport_c
+[5.794s] [ 58%] Built target autopartol_interfaces__rosidl_typesupport_introspection_c
+[5.834s] [ 61%] [32m[1mLinking CXX shared library libautopartol_interfaces__rosidl_typesupport_cpp.so[0m
+[5.938s] [ 61%] Built target autopartol_interfaces__rosidl_typesupport_cpp
+[5.969s] [ 64%] [32m[1mLinking CXX shared library libautopartol_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[5.994s] [ 67%] [32m[1mLinking CXX shared library libautopartol_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[6.129s] [ 67%] Built target autopartol_interfaces__rosidl_typesupport_introspection_cpp
+[6.156s] [ 67%] Built target autopartol_interfaces__rosidl_typesupport_fastrtps_cpp
+[6.353s] [ 70%] [32m[1mLinking CXX shared library libautopartol_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[6.482s] [ 70%] Built target autopartol_interfaces__rosidl_typesupport_fastrtps_c
+[6.571s] [ 70%] Built target autopartol_interfaces
+[6.634s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[7.234s] [ 74%] Built target autopartol_interfaces__py
+[7.286s] [ 77%] [32mBuilding C object CMakeFiles/autopartol_interfaces__rosidl_generator_py.dir/rosidl_generator_py/autopartol_interfaces/srv/_speech_text_s.c.o[0m
+[7.566s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/autopartol_interfaces/libautopartol_interfaces__rosidl_generator_py.so[0m
+[7.629s] [ 80%] Built target autopartol_interfaces__rosidl_generator_py
+[7.661s] [ 90%] [32mBuilding C object CMakeFiles/autopartol_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/autopartol_interfaces/_autopartol_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[7.662s] [ 90%] [32mBuilding C object CMakeFiles/autopartol_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/autopartol_interfaces/_autopartol_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[7.662s] [ 90%] [32mBuilding C object CMakeFiles/autopartol_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/autopartol_interfaces/_autopartol_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[7.810s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/autopartol_interfaces/autopartol_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[7.815s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/autopartol_interfaces/autopartol_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[7.830s] [100%] [32m[1mLinking C shared library rosidl_generator_py/autopartol_interfaces/autopartol_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[7.877s] [100%] Built target autopartol_interfaces__rosidl_typesupport_introspection_c__pyext
+[7.877s] [100%] Built target autopartol_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[7.893s] [100%] Built target autopartol_interfaces__rosidl_typesupport_c__pyext
+[7.917s] Invoked command in '/home/xinhongwang/nav2_ws/build/autopartol_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake --build /home/xinhongwang/nav2_ws/build/autopartol_interfaces -- -j8 -l8
+[7.920s] Invoking command in '/home/xinhongwang/nav2_ws/build/autopartol_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake --install /home/xinhongwang/nav2_ws/build/autopartol_interfaces
+[7.932s] -- Install configuration: ""
+[7.932s] -- Execute custom install script
+[7.933s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/ament_index/resource_index/rosidl_interfaces/autopartol_interfaces
+[7.946s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/msg/rosidl_generator_c__visibility_control.h
+[7.958s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__functions.h
+[7.969s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__struct.h
+[7.982s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__type_support.h
+[7.998s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/speech_text.h
+[8.014s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/environment/library_path.sh
+[8.029s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/environment/library_path.dsv
+[8.043s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[8.057s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__rosidl_typesupport_fastrtps_c.h
+[8.069s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[8.082s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__builder.hpp
+[8.095s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__struct.hpp
+[8.110s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__traits.hpp
+[8.124s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__type_support.hpp
+[8.137s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/speech_text.hpp
+[8.151s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[8.163s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__rosidl_typesupport_fastrtps_cpp.hpp
+[8.175s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[8.191s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__rosidl_typesupport_introspection_c.h
+[8.208s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/include/autopartol_interfaces/autopartol_interfaces/srv/detail/speech_text__rosidl_typesupport_introspection_cpp.hpp
+[8.221s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/environment/pythonpath.sh
+[8.234s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/environment/pythonpath.dsv
+[8.247s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[8.259s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[8.270s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[8.283s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[8.299s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/__init__.py
+[8.315s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/_autopartol_interfaces_s.ep.rosidl_typesupport_c.c
+[8.330s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/_autopartol_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[8.344s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/_autopartol_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[8.356s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/autopartol_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[8.368s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/autopartol_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[8.379s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/autopartol_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[8.392s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/libautopartol_interfaces__rosidl_generator_py.so
+[8.407s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/srv/__init__.py
+[8.422s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/srv/_speech_text.py
+[8.436s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/srv/_speech_text_s.c
+[8.453s] -- Up-to-date symlink: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/autopartol_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[8.453s] -- Up-to-date symlink: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/autopartol_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[8.454s] -- Up-to-date symlink: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/autopartol_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[8.454s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/srv/SpeechText.idl
+[8.466s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/srv/SpeechText.srv
+[8.479s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/srv/SpeechText_Request.msg
+[8.495s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/srv/SpeechText_Response.msg
+[8.513s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/ament_index/resource_index/package_run_dependencies/autopartol_interfaces
+[8.526s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/ament_index/resource_index/parent_prefix_path/autopartol_interfaces
+[8.541s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/environment/ament_prefix_path.sh
+[8.553s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/environment/ament_prefix_path.dsv
+[8.564s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/environment/path.sh
+[8.576s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/environment/path.dsv
+[8.590s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/local_setup.bash
+[8.606s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/local_setup.sh
+[8.622s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/local_setup.zsh
+[8.637s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/local_setup.dsv
+[8.648s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/package.dsv
+[8.661s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/ament_index/resource_index/packages/autopartol_interfaces
+[8.672s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/rosidl_cmake-extras.cmake
+[8.685s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[8.701s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[8.714s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[8.728s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[8.740s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[8.752s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[8.763s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/autopartol_interfacesConfig.cmake
+[8.774s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/autopartol_interfacesConfig-version.cmake
+[8.788s] -- Symlinking: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/package.xml
+[8.804s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_generator_c.so
+[8.805s] -- Set runtime path of "/home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_generator_c.so" to ""
+[8.805s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_fastrtps_c.so
+[8.806s] -- Set runtime path of "/home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[8.807s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[8.807s] -- Set runtime path of "/home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[8.807s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_introspection_c.so
+[8.808s] -- Set runtime path of "/home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[8.808s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_c.so
+[8.809s] -- Set runtime path of "/home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_c.so" to ""
+[8.809s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_introspection_cpp.so
+[8.810s] -- Set runtime path of "/home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[8.810s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_cpp.so
+[8.811s] -- Set runtime path of "/home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_typesupport_cpp.so" to ""
+[8.854s] Listing '/home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces'...
+[8.854s] Compiling '/home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/__init__.py'...
+[8.854s] Listing '/home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/srv'...
+[8.854s] Compiling '/home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/srv/__init__.py'...
+[8.854s] Compiling '/home/xinhongwang/nav2_ws/install/autopartol_interfaces/local/lib/python3.10/dist-packages/autopartol_interfaces/srv/_speech_text.py'...
+[8.859s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_generator_py.so
+[8.861s] -- Set runtime path of "/home/xinhongwang/nav2_ws/install/autopartol_interfaces/lib/libautopartol_interfaces__rosidl_generator_py.so" to ""
+[8.861s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/export_autopartol_interfaces__rosidl_generator_cExport.cmake
+[8.861s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/export_autopartol_interfaces__rosidl_generator_cExport-noconfig.cmake
+[8.861s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/export_autopartol_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[8.861s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/export_autopartol_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[8.861s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/export_autopartol_interfaces__rosidl_generator_cppExport.cmake
+[8.861s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/export_autopartol_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[8.862s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/export_autopartol_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[8.862s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/autopartol_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[8.862s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/autopartol_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[8.864s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/autopartol_interfaces__rosidl_typesupport_cExport.cmake
+[8.864s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/autopartol_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[8.864s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/autopartol_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[8.864s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/autopartol_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[8.864s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/autopartol_interfaces__rosidl_typesupport_cppExport.cmake
+[8.864s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/autopartol_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[8.864s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/export_autopartol_interfaces__rosidl_generator_pyExport.cmake
+[8.865s] -- Installing: /home/xinhongwang/nav2_ws/install/autopartol_interfaces/share/autopartol_interfaces/cmake/export_autopartol_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[8.868s] Invoked command in '/home/xinhongwang/nav2_ws/build/autopartol_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xinhongwang/nav2_ws/install/car_application:/home/xinhongwang/nav2_ws/install/autopartol_robot:/home/xinhongwang/ws02_tools/install/car_application:/home/xinhongwang/ws02_tools/install/autopartol_robot:/opt/ros/humble /usr/bin/cmake --install /home/xinhongwang/nav2_ws/build/autopartol_interfaces

@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/build/autopartol_interfaces/rosidl_typesupport_fastrtps_c/autopartol_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h

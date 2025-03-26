@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/build/car_navigation2/ament_cmake_environment_hooks/local_setup.zsh

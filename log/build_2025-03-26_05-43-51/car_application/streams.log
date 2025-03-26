@@ -1,0 +1,49 @@
+[1.625s] Invoking command in '/home/xinhongwang/nav2_ws/build/car_application': PYTHONPATH=/home/xinhongwang/nav2_ws/build/car_application/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/xinhongwang/nav2_ws/build/car_application/build
+[1.953s] running develop
+[2.209s] Removing /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car-application.egg-link (link to .)
+[2.245s] Invoked command in '/home/xinhongwang/nav2_ws/build/car_application' returned '0': PYTHONPATH=/home/xinhongwang/nav2_ws/build/car_application/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/xinhongwang/nav2_ws/build/car_application/build
+[2.248s] Invoking command in '/home/xinhongwang/nav2_ws/src/car_application': PYTHONPATH=/home/xinhongwang/nav2_ws/build/car_application/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/car_application build --build-base /home/xinhongwang/nav2_ws/build/car_application/build install --record /home/xinhongwang/nav2_ws/build/car_application/install.log --single-version-externally-managed install_data --force
+[2.553s] running egg_info
+[2.555s] writing ../../build/car_application/car_application.egg-info/PKG-INFO
+[2.555s] writing dependency_links to ../../build/car_application/car_application.egg-info/dependency_links.txt
+[2.555s] writing entry points to ../../build/car_application/car_application.egg-info/entry_points.txt
+[2.557s] writing requirements to ../../build/car_application/car_application.egg-info/requires.txt
+[2.557s] writing top-level names to ../../build/car_application/car_application.egg-info/top_level.txt
+[2.559s] reading manifest file '../../build/car_application/car_application.egg-info/SOURCES.txt'
+[2.560s] adding license file 'LICENSE'
+[2.561s] writing manifest file '../../build/car_application/car_application.egg-info/SOURCES.txt'
+[2.561s] running build
+[2.562s] running build_py
+[2.562s] creating /home/xinhongwang/nav2_ws/build/car_application/build
+[2.562s] creating /home/xinhongwang/nav2_ws/build/car_application/build/lib
+[2.562s] creating /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application
+[2.563s] copying car_application/__init__.py -> /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application
+[2.563s] copying car_application/init_robot_pose.py -> /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application
+[2.563s] copying car_application/nav_to_pose.py -> /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application
+[2.563s] copying car_application/waypoint_follower.py -> /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application
+[2.564s] copying car_application/get_robot_pose.py -> /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application
+[2.564s] running install
+[2.564s] running install_lib
+[2.564s] creating /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application
+[2.565s] copying /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application/__init__.py -> /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application
+[2.565s] copying /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application/init_robot_pose.py -> /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application
+[2.566s] copying /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application/nav_to_pose.py -> /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application
+[2.567s] copying /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application/waypoint_follower.py -> /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application
+[2.567s] copying /home/xinhongwang/nav2_ws/build/car_application/build/lib/car_application/get_robot_pose.py -> /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application
+[2.567s] byte-compiling /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application/__init__.py to __init__.cpython-310.pyc
+[2.567s] byte-compiling /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application/init_robot_pose.py to init_robot_pose.cpython-310.pyc
+[2.568s] byte-compiling /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application/nav_to_pose.py to nav_to_pose.cpython-310.pyc
+[2.568s] byte-compiling /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application/waypoint_follower.py to waypoint_follower.cpython-310.pyc
+[2.568s] byte-compiling /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application/get_robot_pose.py to get_robot_pose.cpython-310.pyc
+[2.569s] running install_data
+[2.569s] copying resource/car_application -> /home/xinhongwang/nav2_ws/install/car_application/share/ament_index/resource_index/packages
+[2.569s] copying package.xml -> /home/xinhongwang/nav2_ws/install/car_application/share/car_application
+[2.569s] running install_egg_info
+[2.571s] Copying ../../build/car_application/car_application.egg-info to /home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages/car_application-0.0.0-py3.10.egg-info
+[2.572s] running install_scripts
+[2.595s] Installing get_robot_pose script to /home/xinhongwang/nav2_ws/install/car_application/lib/car_application
+[2.595s] Installing init_robot_pose script to /home/xinhongwang/nav2_ws/install/car_application/lib/car_application
+[2.595s] Installing nav_to_pose script to /home/xinhongwang/nav2_ws/install/car_application/lib/car_application
+[2.595s] Installing waypoint_follower script to /home/xinhongwang/nav2_ws/install/car_application/lib/car_application
+[2.595s] writing list of installed files to '/home/xinhongwang/nav2_ws/build/car_application/install.log'
+[2.625s] Invoked command in '/home/xinhongwang/nav2_ws/src/car_application' returned '0': PYTHONPATH=/home/xinhongwang/nav2_ws/build/car_application/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xinhongwang/nav2_ws/install/car_application/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/car_application build --build-base /home/xinhongwang/nav2_ws/build/car_application/build install --record /home/xinhongwang/nav2_ws/build/car_application/install.log --single-version-externally-managed install_data --force

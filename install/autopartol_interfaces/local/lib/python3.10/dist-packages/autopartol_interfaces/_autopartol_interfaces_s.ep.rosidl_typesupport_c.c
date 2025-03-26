@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/build/autopartol_interfaces/rosidl_generator_py/autopartol_interfaces/_autopartol_interfaces_s.ep.rosidl_typesupport_c.c

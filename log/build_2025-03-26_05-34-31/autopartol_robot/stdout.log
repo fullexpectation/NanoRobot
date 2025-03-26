@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing autopartol_robot.egg-info/PKG-INFO
+writing dependency_links to autopartol_robot.egg-info/dependency_links.txt
+writing entry points to autopartol_robot.egg-info/entry_points.txt
+writing requirements to autopartol_robot.egg-info/requires.txt
+writing top-level names to autopartol_robot.egg-info/top_level.txt
+reading manifest file 'autopartol_robot.egg-info/SOURCES.txt'
+writing manifest file 'autopartol_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/xinhongwang/nav2_ws/install/autopartol_robot/lib/python3.10/site-packages/autopartol-robot.egg-link (link to .)
+Installing partol_node script to /home/xinhongwang/nav2_ws/install/autopartol_robot/lib/autopartol_robot
+Installing speaker script to /home/xinhongwang/nav2_ws/install/autopartol_robot/lib/autopartol_robot
+
+Installed /home/xinhongwang/nav2_ws/build/autopartol_robot
+running symlink_data

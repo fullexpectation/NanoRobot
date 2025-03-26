@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/build/autopartol_interfaces/rosidl_generator_cpp/autopartol_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp

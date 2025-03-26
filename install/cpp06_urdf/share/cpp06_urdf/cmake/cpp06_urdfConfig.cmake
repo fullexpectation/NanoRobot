@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/build/cpp06_urdf/ament_cmake_core/cpp06_urdfConfig.cmake

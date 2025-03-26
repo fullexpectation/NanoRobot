@@ -1,0 +1,1 @@
+/home/xinhongwang/nav2_ws/src/car_navigation2/launch/navigation2.launch.py

@@ -1,0 +1,25 @@
+[1.417s] Invoking command in '/home/xinhongwang/nav2_ws/src/autopartol_robot': PYTHONPATH=/home/xinhongwang/nav2_ws/build/autopartol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xinhongwang/nav2_ws/install/autopartol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/autopartol_robot build --build-base /home/xinhongwang/nav2_ws/build/autopartol_robot/build install --record /home/xinhongwang/nav2_ws/build/autopartol_robot/install.log --single-version-externally-managed install_data
+[1.760s] running egg_info
+[1.761s] writing ../../build/autopartol_robot/autopartol_robot.egg-info/PKG-INFO
+[1.762s] writing dependency_links to ../../build/autopartol_robot/autopartol_robot.egg-info/dependency_links.txt
+[1.763s] writing entry points to ../../build/autopartol_robot/autopartol_robot.egg-info/entry_points.txt
+[1.763s] writing requirements to ../../build/autopartol_robot/autopartol_robot.egg-info/requires.txt
+[1.763s] writing top-level names to ../../build/autopartol_robot/autopartol_robot.egg-info/top_level.txt
+[1.766s] reading manifest file '../../build/autopartol_robot/autopartol_robot.egg-info/SOURCES.txt'
+[1.767s] writing manifest file '../../build/autopartol_robot/autopartol_robot.egg-info/SOURCES.txt'
+[1.767s] running build
+[1.768s] running build_py
+[1.768s] copying autopartol_robot/speaker.py -> /home/xinhongwang/nav2_ws/build/autopartol_robot/build/lib/autopartol_robot
+[1.768s] running install
+[1.768s] running install_lib
+[1.770s] copying /home/xinhongwang/nav2_ws/build/autopartol_robot/build/lib/autopartol_robot/speaker.py -> /home/xinhongwang/nav2_ws/install/autopartol_robot/lib/python3.10/site-packages/autopartol_robot
+[1.770s] byte-compiling /home/xinhongwang/nav2_ws/install/autopartol_robot/lib/python3.10/site-packages/autopartol_robot/speaker.py to speaker.cpython-310.pyc
+[1.771s] running install_data
+[1.771s] running install_egg_info
+[1.773s] removing '/home/xinhongwang/nav2_ws/install/autopartol_robot/lib/python3.10/site-packages/autopartol_robot-0.0.0-py3.10.egg-info' (and everything under it)
+[1.773s] Copying ../../build/autopartol_robot/autopartol_robot.egg-info to /home/xinhongwang/nav2_ws/install/autopartol_robot/lib/python3.10/site-packages/autopartol_robot-0.0.0-py3.10.egg-info
+[1.775s] running install_scripts
+[1.799s] Installing partol_node script to /home/xinhongwang/nav2_ws/install/autopartol_robot/lib/autopartol_robot
+[1.799s] Installing speaker script to /home/xinhongwang/nav2_ws/install/autopartol_robot/lib/autopartol_robot
+[1.800s] writing list of installed files to '/home/xinhongwang/nav2_ws/build/autopartol_robot/install.log'
+[1.825s] Invoked command in '/home/xinhongwang/nav2_ws/src/autopartol_robot' returned '0': PYTHONPATH=/home/xinhongwang/nav2_ws/build/autopartol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xinhongwang/nav2_ws/install/autopartol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/autopartol_robot build --build-base /home/xinhongwang/nav2_ws/build/autopartol_robot/build install --record /home/xinhongwang/nav2_ws/build/autopartol_robot/install.log --single-version-externally-managed install_data

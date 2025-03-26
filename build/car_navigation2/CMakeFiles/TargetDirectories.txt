@@ -1,0 +1,9 @@
+/home/xinhongwang/nav2_ws/build/car_navigation2/CMakeFiles/uninstall.dir
+/home/xinhongwang/nav2_ws/build/car_navigation2/CMakeFiles/car_navigation2_uninstall.dir
+/home/xinhongwang/nav2_ws/build/car_navigation2/CMakeFiles/test.dir
+/home/xinhongwang/nav2_ws/build/car_navigation2/CMakeFiles/edit_cache.dir
+/home/xinhongwang/nav2_ws/build/car_navigation2/CMakeFiles/rebuild_cache.dir
+/home/xinhongwang/nav2_ws/build/car_navigation2/CMakeFiles/list_install_components.dir
+/home/xinhongwang/nav2_ws/build/car_navigation2/CMakeFiles/install.dir
+/home/xinhongwang/nav2_ws/build/car_navigation2/CMakeFiles/install/local.dir
+/home/xinhongwang/nav2_ws/build/car_navigation2/CMakeFiles/install/strip.dir
