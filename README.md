@@ -1,6 +1,13 @@
 # 这是ROS2humble版本运行下面的代码需要提前做的准备(使用RVIZ和Gazebo仿真)
+## 仿真视频
+https://www.bilibili.com/video/BV1tMoiYYERN/?spm_id_from=333.1387.homepage.video_card.click&vd_source=a54d7b70061d23cd9317111e80b3830b
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114228866385448&bvid=BV1tMoiYYERN&cid=29081666866&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+参考鱼香ROS视频
+https://www.bilibili.com/video/BV1CB19Y1Ew8?spm_id_from=333.788.videopod.sections&vd_source=a54d7b70061d23cd9317111e80b3830b
+
+赵虚左
+https://www.bilibili.com/video/BV12e4y1C7Ns/?spm_id_from=333.1387.favlist.content.click&vd_source=a54d7b70061d23cd9317111e80b3830b
+
 ```bash
 1  sudo apt update
     2  sudo apt install open-vm-tools-desktop
