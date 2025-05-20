@@ -1,4 +1,6 @@
 # 这是ROS2humble版本运行下面的代码需要提前做的准备(使用RVIZ和Gazebo仿真)
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114228866385448&bvid=BV1tMoiYYERN&cid=29081666866&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 ```bash
 1  sudo apt update
     2  sudo apt install open-vm-tools-desktop
